@@ -1,4 +1,4 @@
-# iHelloWorld-Work
+# HelloEcho
 
 > Illuminating Character
 
@@ -19,14 +19,14 @@ Connecting people and opportunity with character and skill.
 ---
 
 ## 🌅 Vision Statement
-When skill is commoditized, and character defines our true wealth, iHelloWorld-Work seeks to amplify the human qualities that make us who we are—not just what we do. We’re more than engineers, plumbers, or janitors—we are us. In a world driven by algorithms, none exist to measure kindness, grit, or integrity. iHelloWorld-Work exists to change that—to connect good people with great opportunities.
+When skill is commoditized, and character defines our true wealth, HelloEcho seeks to amplify the human qualities that make us who we are—not just what we do. We’re more than engineers, plumbers, or janitors—we are us. In a world driven by algorithms, none exist to measure kindness, grit, or integrity. HelloEcho exists to change that—to connect good people with great opportunities.
 
 ---
 
 ## ⚡ Quick Start
 ```bash
-git clone https://github.com/jamesroydennis/iHelloWorld-Work.git
-cd iHelloWorld-Work
+git clone https://github.com/jamesroydennis/HelloEcho.git
+cd HelloEcho
 # setup virtualenv or install deps (Python/Node depending on stack)
 ```
 

@@ -1,4 +1,4 @@
-# Contributing to iHelloWorld-Work
+# Contributing to HelloEcho
 
 ## Our Mission
 
